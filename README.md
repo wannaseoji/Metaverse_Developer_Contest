@@ -86,12 +86,14 @@
 * 휴대폰 기능
 
   * 시뮬레이션 속 휴대폰 기능을 통해 재난 상황 발생 시 수행하면 좋은 행동에 대한 힌트와 대피소 장소에 대한 힌트를 얻을 수 있다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/56b8de74-2be2-449c-805d-e3e2091f7f7b"/></div>
 </br>
 
 * 깜짝 퀴즈 기능
 
   * 시뮬레이션 중 일정 시간이 지나면 휴대폰을 통해 깜짝 퀴즈를 출력하여 재난 상황 발생 시 기억하면 좋을 지식을 얻을 수 있다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/60c82002-3564-40d0-a251-39e7fe151ea2"/></div>
 </br>
 
@@ -103,12 +105,14 @@
 * AI Human 기능
 
   * AI Human를 통해 대피소의 위치를 유추할 수 있고, 또한 가짜 대피소로 달려가거나 손짓하는 AI Human을 배치하여 사용자에게 올바른 대피소로 이동할 수 있도록 교육한다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/939bdbb8-efdf-41e4-9ee3-af62ce615855"/></div>
 </br>
 
 * 대피소 유도 기능
 
   * 도심으로 이동하였을 때 “하” 난이도의 경우 대피소로 이동할 경로에 대해 보여주어 장소에 대한 숙지가 되어 있지 않은 경우 도움을 줄 수 있는 기능이다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/e291baab-0fac-4ed1-875d-dc20b712734f"/></div>
 </br>
 
@@ -119,6 +123,7 @@
 * 결과표 기능
 
   * 마지막 화면에서 교육 결과에 대한 수행 여부를 한눈에 확인할 수 있습니다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/ac124758-4a3e-4b94-8e9e-ec3b39cf7fd9"/></div>
   </br>
 
