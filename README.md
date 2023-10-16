@@ -55,8 +55,9 @@
 </br>
 
 * 미션 기능
-<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/0bec80b0-877f-4999-84f3-14d1155abd21"/></div>
+
   * 선택한 상황에 맞는 행동을 통해 행동강령을 수행하는 기능. 소화기를 집거나, 라디오를 챙기는 등의 행위를 상호작용을 통해 구현하였다.
+  * <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/0bec80b0-877f-4999-84f3-14d1155abd21"/></div>
 
 </br>
 
