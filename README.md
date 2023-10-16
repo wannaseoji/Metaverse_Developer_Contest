@@ -55,15 +55,19 @@
 </br>
 
 * 미션 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/0bec80b0-877f-4999-84f3-14d1155abd21"/></div>
   * 선택한 상황에 맞는 행동을 통해 행동강령을 수행하는 기능. 소화기를 집거나, 라디오를 챙기는 등의 행위를 상호작용을 통해 구현하였다.
-<img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/0bec80b0-877f-4999-84f3-14d1155abd21"/>
+
 </br>
 
 * 점수 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/e0a44406-e45f-40ef-ac58-38fcd10f9bb6"/></div>
   * 난이도 별, 점수를 토대로 깜짝 퀴즈, 미션 별 점수를 초기점수에 가감하여 총 결과에 반영한다.
+
 </br>
 
 * 재난 선택 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/4f2fe297-6e42-4593-9523-c1eda0a4250d"/></div>
   * 교육받을 재난 상황을 선택할 수 있으며, 이후 난이도 선택을 통해 더욱 현실과 같은 상황을 경험할 수 있다.
   * 공습 상황 대응 교육
     * 공습 상황 발생 시 수행할 행동 강령을 교육 받을 수 있도록 상황을 제공한다.
@@ -72,26 +76,32 @@
 </br>
 
 * 뉴스 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/5944916e-679d-4af1-8313-483f2eb766d7"/></div>
   * 시뮬레이션 시작 시 뉴스 화면을 제공하여 현재 상황에 대해 사용자에게 효과적으로 전달할 수 있다.
 </br>
 
 * 휴대폰 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/56b8de74-2be2-449c-805d-e3e2091f7f7b"/></div>
   * 시뮬레이션 속 휴대폰 기능을 통해 재난 상황 발생 시 수행하면 좋은 행동에 대한 힌트와 대피소 장소에 대한 힌트를 얻을 수 있다.
 </br>
 
 * 깜짝 퀴즈 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/60c82002-3564-40d0-a251-39e7fe151ea2"/></div>
   * 시뮬레이션 중 일정 시간이 지나면 휴대폰을 통해 깜짝 퀴즈를 출력하여 재난 상황 발생 시 기억하면 좋을 지식을 얻을 수 있다.
 </br>
 
 * 사무실 기능
+
   * 시뮬레이션 시작 시 처음 움직일 수 있는 공간이다. 이 공간에서 재난이 시작되었음을 알 수 있으며, 실내 공간에서 해야 할 일과, 하지 말아야 할 일을 교육받을 수 있다.
 </br>
 
 * AI Human 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/939bdbb8-efdf-41e4-9ee3-af62ce615855"/></div>
   * AI Human를 통해 대피소의 위치를 유추할 수 있고, 또한 가짜 대피소로 달려가거나 손짓하는 AI Human을 배치하여 사용자에게 올바른 대피소로 이동할 수 있도록 교육한다.
 </br>
 
 * 대피소 유도 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/e291baab-0fac-4ed1-875d-dc20b712734f"/></div>
   * 도심으로 이동하였을 때 “하” 난이도의 경우 대피소로 이동할 경로에 대해 보여주어 장소에 대한 숙지가 되어 있지 않은 경우 도움을 줄 수 있는 기능이다.
 </br>
 
@@ -100,6 +110,7 @@
 </br>
 
 * 결과표 기능
+<div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/ac124758-4a3e-4b94-8e9e-ec3b39cf7fd9"/></div>
   * 마지막 화면에서 교육 결과에 대한 수행 여부를 한눈에 확인할 수 있습니다.
 
 ## 기대효과 및 활용분야
