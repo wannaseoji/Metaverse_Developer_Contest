@@ -80,6 +80,7 @@
 * 뉴스 기능
 
   * 시뮬레이션 시작 시 뉴스 화면을 제공하여 현재 상황에 대해 사용자에게 효과적으로 전달할 수 있다.
+  </br>
   <div align="center"><img src="https://github.com/wannaseoji/Metaverse_Developer_Contest/assets/91694379/5944916e-679d-4af1-8313-483f2eb766d7"/></div>
 </br>
 
